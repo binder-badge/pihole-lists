@@ -3,3 +3,4 @@ cdn.split.io
 odindownload.com
 api.ipify.org
 click.discord.com
+s.youtube.com
